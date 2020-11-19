@@ -258,9 +258,10 @@ Pas le plus facile, souvent ingrat mais essentiel.
 
 --- 
 
+
 ### Rapport à l'enterprise
 
-L'idée est de fixer un trait de caractère plus dominant chez la personne. ] 
+L'idée est de fixer un trait de caractère plus dominant chez la personne. 
 
 	Q. Pour vous, l'entreprise est : 
 		
@@ -268,24 +269,32 @@ L'idée est de fixer un trait de caractère plus dominant chez la personne. ]
 
 			S-Q. Cette richesse collective passe par :
 
-				R. une rentalité économique, donc salariale, grâce aux efforts de chacun			=> besognieux 
-				R. une communauté de savoirs communs qui croîent 									=> idéaliste 
-				R. des réseaux qui se créent pour d'autres opportunités 							=> opportuniste 
+				R. une rentalité économique, donc salariale, grâce aux efforts de chacun 
+					=> besognieux 
+				R. une communauté de savoirs communs qui croîent 			
+					=> idéaliste 
+				R. des réseaux qui se créent pour d'autres opportunités 
+					=> opportuniste 
 
 		R. un lieu d'épanouissement professionnel 
 
 			S-Q. L'épanouissement professionnel doit être :
 
-				R. mesurable et constant dans le temps 												=> comptable 
-				R. comme un sentiment de bien⁻être 													=> troublé 
-				R. l'apprentissage permanent 														=> perfectionniste
+				R. mesurable et constant dans le temps
+					=> comptable 
+				R. comme un sentiment de bien⁻être 
+					=> troublé 
+				R. l'apprentissage permanent 
+					=> perfectionniste
 
 		R. un lieu d'équilibre avec sa vie personnelle 
 
 			S-Q. Vous diriez que votre premier choix est : 
 
-				R. d'avoir du temps pour soi et ses proches 										=> détaché
-				R. l'entreprise comme un repère dans sa vie 										=> déséquilibré 
-				R. de considérer votre emploi comme un revenu nécessaire							=> démotivé 
-
+				R. d'avoir du temps pour soi et ses proches 
+					=> détaché
+				R. l'entreprise comme un repère dans sa vie 
+					=> déséquilibré 
+				R. de considérer votre emploi comme un revenu nécessaire 
+					=> démotivé 
 
